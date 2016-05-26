@@ -1,0 +1,42 @@
+body {
+	background-color: #ffe;
+	font-family: arial, sans-serif;
+	font-size: 14px;
+	border-style: solid;
+	border-spacing: 3px;
+}
+img {
+   border:3px solid #021a40;
+
+}
+p {
+	font-size: 14px;
+	color: black;
+	font-family: helvetica, arial, sans-serif;
+	margin-left: 5px;
+	padding: 5px;
+}
+h2 { 
+	color: black;
+	margin-left: 5px;
+	padding: 5px;
+}
+h3 { 
+	color: black;
+	margin-left: 5px;
+	padding: 5px;
+}
+h4 {
+	color: #887;
+	padding: 5px;
+	margin-left 5px;
+}
+a {
+	color: #900;
+}
+ul {
+	color: black
+	text-indent: 5px;
+	font-size: 14px;
+}
+
